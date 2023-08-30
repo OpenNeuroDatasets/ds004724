@@ -1,18 +1,17 @@
 {
-  "Name": "CogQuad",
-  "BIDSVersion": "1.11.0",
-  "DatasetType": "raw",
-  "License": "CC0",
-  "Authors": [
-    "",
-    ""
-  ],
-  "Acknowledgements": "",
-  "HowToAcknowledge": "Please cite this paper: ",
-  "Funding": [],
-  "EthicsApprovals": [
-  ],
-  "ReferencesAndLinks": [
-  ],
-  "DatasetDOI": ""
+    "Name": "CogQuad",
+    "BIDSVersion": "1.11.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "",
+        "",
+        "Simone Haller"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Please cite this paper: ",
+    "Funding": [],
+    "EthicsApprovals": [],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": ""
 }
