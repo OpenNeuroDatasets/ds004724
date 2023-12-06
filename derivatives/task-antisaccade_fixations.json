@@ -21,5 +21,17 @@
   "stopTime":{
     "Description":"Eye-tracking timestamp corresponding to the offset (stop) of the event.",
     "Units":"milliseconds"
+  },
+  "xAvg":{
+    "Description":"Average horizontal gaze position during the fixation.",
+    "Units":"pixels"
+  },	
+  "yAvg":{
+    "Description":"Average vertical gaze position during the fixation.",
+    "Units":"pixels"
+  },	
+  "pupilAvg":{
+    "Description":"Average pupil area during the fixation.",
+    "Units":"Scaled camera image pixels."
   }
 }
